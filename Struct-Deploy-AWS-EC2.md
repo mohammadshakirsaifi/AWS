@@ -183,6 +183,7 @@ Enable CloudWatch for metrics and logs
 Set up alarms for CPU, memory, downtime, etc.
 
 ✅ Deployment Flow Summary
+```bash
 [ GitHub Repo ]
        ↓ (CI/CD push)
 [ EC2 Instance ] ← NGINX ← User Requests
