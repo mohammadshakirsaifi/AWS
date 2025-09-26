@@ -1,6 +1,6 @@
 # [Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos](https://links.stacksimplify.com/terraform-on-aws-eks-kubernetes-iac-sre)
 
-[![Image](<img width="909" height="262" alt="image" src="https://github.com/user-attachments/assets/db315a64-1e57-4a3c-bf35-7a9d297e59d4" />"Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos ")]
+![Image](<img width="909" height="262" alt="image" src="https://github.com/user-attachments/assets/db315a64-1e57-4a3c-bf35-7a9d297e59d4" />"Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos ")
 
 ## Course Modules
 01. Infrastructure as Code (IaC)
